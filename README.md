@@ -1,4 +1,3 @@
-# sh4d0w4RCH3R415's GitHub
 ## Home
 Welcome to my GitHub website!<br/>
 Here you can find news about my profile, my current status, or even what I'm going to be working on in the near future.
